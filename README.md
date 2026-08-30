@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/d0486496-jpg/dsa/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/d0486496-jpg/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/d0486496-jpg/dsa/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -50,4 +51,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/d0486496-jpg/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/d0486496-jpg/dsa/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/d0486496-jpg/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/d0486496-jpg/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
