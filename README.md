@@ -56,6 +56,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/d0486496-jpg/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/d0486496-jpg/dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/d0486496-jpg/dsa/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,4 +65,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/d0486496-jpg/dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/d0486496-jpg/dsa/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
